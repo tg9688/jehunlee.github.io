@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 야구규칙
-mathjax: true
+author: Lee Je Hun
 ---
 
 # Getting started

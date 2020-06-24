@@ -3,7 +3,7 @@ title: 야구소개 # your site title
 author: Lee Je Hun # You :P
 description: 야구를 모르는 사람들을 위해 만들어진 블로그이다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tg9688.github.io/jehunlee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
